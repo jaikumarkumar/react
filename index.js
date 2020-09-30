@@ -4,7 +4,7 @@ function sum(x,y){
     console.log(add);
 
 }
-sum(25,15);
+sum(25,25);
 
 //named function
 function named(name1,name2){
